@@ -3,7 +3,7 @@
 
 ## 
 
-- 🔭 Hoje estou procurando uma qualificação no mercado de Desenvolvimento Web
+- 🔭 Sou Desenvolvedor Full Stack como treeine
 - 🌱 Estou estudando na PUCRS fazendo um MBA em Desenvolvimento Full Stack
 - 📫 Você pode falar comigo pelo email: eusoudavi@gmail.com
 
