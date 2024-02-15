@@ -3,8 +3,8 @@
 
 ## 
 
-- 🔭 Sou Desenvolvedor Full Stack como treeine na [PlaceTi](https://placeti.com.br/)
-- 🌱 Estou estudando na PUCRS fazendo um MBA em Desenvolvimento Full Stack
+- 🔭 Sou Desenvolvedor Junior Full Stack na [PlaceTi](https://placeti.com.br/)
+- 🌱 Pós Graduado na PUCRS em Desenvolvimento Full Stack
 - 📫 Veja meu [LinkedIn](https://www.linkedin.com/in/davi-visintainer/)
 - 🖥️ https://github.com/Kitchen-Club-Visintainer
 
