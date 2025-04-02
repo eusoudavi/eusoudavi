@@ -3,8 +3,8 @@
 
 ## 
 
-- 🔭 Sou Desenvolvedor Junior Full Stack na [PlaceTi](https://placeti.com.br/)
-- 🌱 Pós Graduado na PUCRS em Desenvolvimento Full Stack
+- 🔭 Sou Desenvolvedor Full Stack Java | Angular
+- 🌱 Pós Graduado na PUCRS em Desenvolvimento Full Stack pela PUC RS
 - 📫 Veja meu [LinkedIn](https://www.linkedin.com/in/davi-visintainer/)
 - 🖥️ https://github.com/Kitchen-Club-Visintainer
 
